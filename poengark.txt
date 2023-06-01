@@ -1,0 +1,24 @@
+1. |           Enere|
+2. |           Toere|
+3. |          Treere|
+4. |          Firere|
+5. |         Femmere|
+6. |         Seksere|
+---|----------------|
+   |             Sum|
+   |           Bonus|
+---|----------------|
+7. |          Et par|
+8. |          To par|
+9. |         Tre par|
+10.|        Tre like|
+11.|       Fire like|
+12.|        Fem like|
+13.|  Liten straight|
+14.|   Stor straight|
+15.|   Full straight|
+16.|           Hytte|
+17.|             Hus|
+18.|            Tårn|
+19.|          Sjanse|
+20.|       Maxiyatzy|
